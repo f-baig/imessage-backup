@@ -1,4 +1,4 @@
-### IMessage Backup Tool
+# IMessage Backup Tool
 Currrently there exists no free and easy way to store your iMessages in backup. Oftentimes (certainly in my case), iMessages take up a large amount of storage and often contain important/sentimental data which should not be deleted. This tool is meant to fix that issue through a simple Claude Code authored Python script that can be run from the CLI. 
 
 ## Steps to Run                                                               
