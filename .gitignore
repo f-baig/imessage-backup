@@ -1,0 +1,4 @@
+test-export/
+__pycache__/
+*.pyc
+.DS_Store
